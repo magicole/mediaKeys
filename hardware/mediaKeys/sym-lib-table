@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mediaKeys)(type Legacy)(uri ${KIPRJMOD}/mediaKeys.lib)(options "")(descr ""))
+)
